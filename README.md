@@ -4,8 +4,6 @@
 
 Modern web app showing **real-time weather forecasts** using **automatic geolocation** or city search. Fluid interface with animated gradients and precise data for all Brazil.
 
-[![Leopoldina MG](https://via.placeholder.com/800x400/74b9ff/ffffff?text=Leopoldina,+MG+-+75°F+Rainy)](https://augustocc23.github.io/previsao-tempo/)
-
 ## 🚀 Features
 
 - ✅ **Automatic geolocation** (browser GPS)
@@ -59,8 +57,6 @@ ________________________________________________________________________________
 
 App web moderna que mostra previsão do tempo **em tempo real** usando **geolocalização automática** ou busca por cidade. Interface fluida com gradientes animados e dados precisos para todo Brasil.
 
-[![Leopoldina MG](https://via.placeholder.com/800x400/74b9ff/ffffff?text=Leopoldina,+MG+-+24.3°C+Chuvoso)](https://augustocc23.github.io/previsao-tempo/)
-
 ## 🚀 Funcionalidades
 
 - ✅ **Geolocalização automática** (browser GPS)
@@ -106,4 +102,7 @@ Leopoldina, MG - Sudeste ← Cidade + Região
 24.3°C ☀️ ← Temperatura atual
 Chuvoso ← Descrição WMO
 💧 89% | 💨 6 km/h | 🌧️ 0.1mm ← Detalhes
+
 [Qua Qua Sex Sáb Dom Seg Ter] ← Previsão semanal
+
+![image](https://github.com/user/repo/assets/123/abc/image.jpg)
