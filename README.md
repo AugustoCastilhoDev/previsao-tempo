@@ -49,6 +49,7 @@ Rainy ← WMO description
 💧 89% | 💨 6 mph | 🌧️ 0.1" ← Details
 [Wed Thu Fri Sat Sun Mon Tue]← Weekly forecast
 
+**Access the GitHub Pages**
 _____________________________________________________________________________________________
 
 *Português-BR*
@@ -105,7 +106,8 @@ Chuvoso ← Descrição WMO
 
 [Qua Qua Sex Sáb Dom Seg Ter] ← Previsão semanal
 
-![image]([https://github.com/user/repo/assets/screenshot-leopoldina.jpg])
+**Acesse o Github Pages**
+
 
 
 
