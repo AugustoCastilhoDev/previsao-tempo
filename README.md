@@ -105,4 +105,5 @@ Chuvoso ← Descrição WMO
 
 [Qua Qua Sex Sáb Dom Seg Ter] ← Previsão semanal
 
-![image](https://github.com/user/repo/assets/123/abc/image.jpg)
+![image](https://github.com/user/repo/assets/screenshot-leopoldina.jpg)
+
